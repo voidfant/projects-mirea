@@ -1,0 +1,7 @@
+python-dotenv==0.21.1
+SQLAlchemy
+alembic==1.13.0
+fastapi
+uvicorn
+redis
+psycopg2-binary==2.9.9
